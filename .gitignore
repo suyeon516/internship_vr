@@ -1,0 +1,17 @@
+cat > .gitignore << 'EOF'
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]serSettings/
+.vs/
+.vsconfig
+*.csproj
+*.sln
+*.userprefs
+UpgradeLog*.htm
+*.apk
+*.aab
+EOF
